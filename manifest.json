@@ -1,0 +1,12 @@
+{
+    "name": "OEDDS GDRP consent test",
+    "short_name": "consent-test",
+    "start_url": ".",
+    "display": "standalone",
+    "version": "1.0.0",
+    "description": "Children's books with vocabulary and resources",
+    "main": "app.js",
+    "background_color": "#fff",
+    "keywords": ["Peter Rabbit", "children's books", "free"],
+    "author": "OEDDS Primers L.L.C. (D.S.)"
+}
